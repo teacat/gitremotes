@@ -31,5 +31,5 @@ $ gitremotes
 >> /Users/YamiOdymel/go/src/github.com/TeaMeow/Gitremotes
 origin  git@github.com:TeaMeow/Gitremotes.git (fetch)
 origin  git@github.com:TeaMeow/Gitremotes.git (push)
-origin  git@github.com:TeaMeow/Filary.git (push)
+origin  git@bitbucket.org:TeaMeow/Gitremotes.git (push)
 ```
